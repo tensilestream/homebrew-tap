@@ -1,8 +1,8 @@
 class Yieldpoint < Formula
   desc "Deterministic verification for agents that write code"
   homepage "https://github.com/tensilestream/yieldpoint"
-  url "https://github.com/tensilestream/yieldpoint/archive/refs/tags/v0.1.5.tar.gz"
-  sha256 "12378bd0b9b5a1521bbb15b7eea768aec0f1013fbf29bfbc99a08a4aa72d5895"
+  url "https://github.com/tensilestream/yieldpoint/archive/refs/tags/v0.1.7.tar.gz"
+  sha256 "ddeac61917df8b8237794828fd42e3dd5a32a0b1ee5376fc3d4a05b54fc34e18"
   license "BUSL-1.1"
 
   depends_on "python"
